@@ -7,7 +7,7 @@ out/
 .apt_generated
 .classpath
 .factorypath
-.project
+.projec
 .settings
 .springBeans
 .sts4-cache
@@ -28,3 +28,5 @@ bin/
 ### Mac OS ###
 .DS_Store
 /.idea/
+*.iml
+
